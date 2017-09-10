@@ -1,0 +1,16 @@
+int k=0;
+char d,m[100],s[10],t[10];
+char *msg1="TEMP";
+char *msg2="ON";
+char *msg3="OFF";
+char *msg4=" <DEVICE IS ON> ";
+char *msg5=" <DEVICE IS OFF> ";
+char *msg6=" <INVALID COMMAND> ";
+char *msg7=" C ";
+char *msg8="temp";
+char *msg9="on";
+char *msg10="off";
+char *msg11="set";
+char *msg12="SET";
+char *msg13=" SET TO ";
+char *msg14=" TEMP IS ";
